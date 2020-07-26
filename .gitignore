@@ -3,6 +3,7 @@
 
 mono_crash.*.*.json
 mono_crash*
+*/mono_crash*
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #

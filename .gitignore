@@ -1,4 +1,7 @@
 .DS_Store
+.collabignore
+
+mono_crash.*.*.json
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #

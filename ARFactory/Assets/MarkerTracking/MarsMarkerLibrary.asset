@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d047b3ff28334c19afece99d54cfb46, type: 3}
+  m_Name: MarsMarkerLibrary
+  m_EditorClassIdentifier: 
+  m_Markers:
+  - m_SpecifySize: 1
+    m_Size: {x: 0.1, y: 0.1}
+    m_Label: marker1
+    m_Texture: {fileID: 2800000, guid: 25d729e8c9d26434b8b831ceaa933a74, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5032959538582057247
+      m_GuidHigh: 2711319614423378854
+  - m_SpecifySize: 1
+    m_Size: {x: 0.1, y: 0.1}
+    m_Label: marker2
+    m_Texture: {fileID: 2800000, guid: 86f02b867b6dc4dbc9920a2a728ccf51, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5510138986294075312
+      m_GuidHigh: 1536570262395881911
+  - m_SpecifySize: 1
+    m_Size: {x: 0.1, y: 0.1}
+    m_Label: marker3
+    m_Texture: {fileID: 2800000, guid: df757311a90cd428b8fba84bc9ca2118, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4846585592263104297
+      m_GuidHigh: 7598305748848472979
+  - m_SpecifySize: 1
+    m_Size: {x: 0.1, y: 0.1}
+    m_Label: marker4
+    m_Texture: {fileID: 2800000, guid: 3faead0b1bb2f4a2cb6f4a0e9779ca79, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5369061890194370142
+      m_GuidHigh: 13276095621676357775
+  - m_SpecifySize: 1
+    m_Size: {x: 0.1, y: 0.1}
+    m_Label: marker5
+    m_Texture: {fileID: 2800000, guid: ec95e98b709284efeafd3ea5af201a84, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4633271024637104676
+      m_GuidHigh: 6750804289252568460
+  - m_SpecifySize: 1
+    m_Size: {x: 0.1, y: 0.1}
+    m_Label: marker6
+    m_Texture: {fileID: 2800000, guid: 163863312e5fe4ed2a2c38346ac3ca40, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5305338838135314380
+      m_GuidHigh: 7956172848380200110
+  - m_SpecifySize: 1
+    m_Size: {x: 0.1, y: 0.1}
+    m_Label: marker7
+    m_Texture: {fileID: 2800000, guid: db0e730386b29454d9010f5084448882, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4748152911059164343
+      m_GuidHigh: 17797913079193769149
+  - m_SpecifySize: 1
+    m_Size: {x: 0.1, y: 0.1}
+    m_Label: marker8
+    m_Texture: {fileID: 2800000, guid: 43cd96ed2d619794b8ca2a6371074284, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4750288357124763499
+      m_GuidHigh: 4803116686442589602
+  - m_SpecifySize: 1
+    m_Size: {x: 0.1, y: 0.1}
+    m_Label: marker9
+    m_Texture: {fileID: 2800000, guid: 9f77ccb2938c4b5479cfd621d50b4a2e, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 5320174099437150303
+      m_GuidHigh: 18261628840308587954
+  - m_SpecifySize: 1
+    m_Size: {x: 0.1, y: 0.1}
+    m_Label: marker10
+    m_Texture: {fileID: 2800000, guid: 99cb591a148063b4fa77a6d577bbddf1, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4788031922702782955
+      m_GuidHigh: 5786112745784403084
+  - m_SpecifySize: 1
+    m_Size: {x: 0.065, y: 0.065}
+    m_Label: marker10temp
+    m_Texture: {fileID: 2800000, guid: c55d6fe4661872d479113bb1b4e53986, type: 3}
+    m_MarkerDefinitionId:
+      m_GuidLow: 4781058915913577354
+      m_GuidHigh: 1923265473449718427

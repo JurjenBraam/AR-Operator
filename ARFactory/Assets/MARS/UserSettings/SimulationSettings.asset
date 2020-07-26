@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ce9de9a0b772e84589568d58baaa4a5, type: 3}
+  m_Name: SimulationSettings
+  m_EditorClassIdentifier: 
+  m_EnvironmentMode: 0
+  m_EnvironmentPrefab: {fileID: 8842492908595114926, guid: 347ce2ecfde727640b5180f703ddcfc8,
+    type: 3}
+  m_IndependentRecording: {fileID: 604121681969238689, guid: 1d74ae577149fec479d10968d697b303,
+    type: 2}
+  m_WebCamDeviceIndex: 0
+  m_UseSyntheticRecording: 0
+  m_FindAllMatchingDataPerQuery: 0
+  m_AutoResetDevicePose: 0
+  m_AutoSyncWithSceneChanges: 1
+  m_TimeToFinalizeSceneModification: 0.3
+  m_ShowSimulatedEnvironment: 1
+  m_ShowSimulatedData: 1
+  m_SyntheticPrefabs:
+  - {fileID: 4033279824830409645, guid: 5f4bc42a9c8de1d4e8d04d004ea81f1d, type: 3}
+  - {fileID: 8842492908595114926, guid: 347ce2ecfde727640b5180f703ddcfc8, type: 3}
+  - {fileID: 8842492908595114926, guid: 3ea85c9f297a55c4f9bc40b77fb2e659, type: 3}
+  - {fileID: 1729081193026240037, guid: 63d5ad35d0ccc2443a5fbe619f1c6b9f, type: 3}
+  m_SyntheticRecordings:
+  - {fileID: 5658933126917729469, guid: 1fb9ba2be55aad94c92f7cee2be67709, type: 2}
+  - {fileID: -6460285443568708635, guid: bd1c77b2631ee6447b32a80d585336c0, type: 2}
+  - {fileID: 6847127193509040187, guid: c70348a2a72a2e14bb2e7932726593c2, type: 2}
+  - {fileID: -1268708557892316661, guid: 9e0f06576bed19a45b1192ae812e804c, type: 2}
+  m_UserFacingEnvironmentMode: 1
+  m_WorldFacingEnvironmentMode: 0
